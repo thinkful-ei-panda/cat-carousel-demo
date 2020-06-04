@@ -2,6 +2,6 @@
 
 This quiz will test your knowledge about cats!
 
-I worked on this as a pair with my partner Bob Johnson. 
+This was a paired project worked on by Andrea Bailey and Bob Johnson.
 
 **Live Link:** https://thinkful-ei-panda.github.io/cat-carousel-demo/
